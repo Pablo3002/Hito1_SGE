@@ -9,4 +9,4 @@ Ejercicio 2-Seguridad Python(Atacar o Defender):
 He creado un script python para cifrar y descifrar archivo, es decir, hacer ransomware.
 
 Ejercicio 3-Analitica de Datos:
-Lectura de un fichero csv con 19.000 registros únicos, e implementación de gráfico de tipo violí y gráfico 3D
+Lectura de un fichero csv con más 19.000 registros únicos, e implementación de gráfico de tipo violí y gráfico 3D
